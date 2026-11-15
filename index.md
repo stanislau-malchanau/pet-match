@@ -41,6 +41,8 @@ after the last one with new animal mixes.
 **Do I need an account?** No. There is no sign-up. Progress is saved on your device and in your
 own iCloud account.
 
+**Which languages does it support?** 37 languages. The game follows the language of your iPhone.
+
 **Is it a match-3 game?** Not the swap kind. You pick animals into a tray and clear them in
 threes, which is called triple tile match.
 
@@ -74,7 +76,6 @@ message, usually within two days.
   "applicationCategory": "GameApplication",
   "applicationSubCategory": "Puzzle",
   "genre": ["Puzzle", "Casual", "Tile match"],
-  "inLanguage": "en",
   "isAccessibleForFree": true,
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
   "author": { "@type": "Person", "name": "Stanislau Malchanau" }
@@ -91,6 +92,7 @@ message, usually within two days.
     { "@type": "Question", "name": "Are there ads in Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "The first 19 levels have no ads. Ads start at level 20, and No Ads removes banners and full-screen ads." } },
     { "@type": "Question", "name": "How many levels does Pet Match have?", "acceptedAnswer": { "@type": "Answer", "text": "200 levels, from calm to brain-teasing, and the game keeps going after the last one with new animal mixes." } },
     { "@type": "Question", "name": "Do I need an account to play Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "No. There is no sign-up. Progress is saved on your device and in your own iCloud account." } },
+    { "@type": "Question", "name": "Which languages does Pet Match support?", "acceptedAnswer": { "@type": "Answer", "text": "37 languages. The game follows the language of your iPhone." } },
     { "@type": "Question", "name": "Is Pet Match a match-3 game?", "acceptedAnswer": { "@type": "Answer", "text": "Not the swap kind. You pick animals into a tray and clear them in threes, which is called triple tile match." } }
   ]
 }

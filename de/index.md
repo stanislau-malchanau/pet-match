@@ -1,12 +1,12 @@
 ---
 title: "Pet Match: Zoo Puzzle"
-description: "Pet Match: Zoo Puzzle ist ein kostenloses, entspannendes Triple-Tile-Match-Spiel mit niedlichen Zootieren für iPhone und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto. Das Spiel selbst ist auf Englisch."
+description: "Pet Match: Zoo Puzzle ist ein kostenloses, entspannendes Triple-Tile-Match-Spiel mit niedlichen Zootieren für iPhone und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto."
 lang: de
 ---
 
 # Pet Match: Zoo Puzzle
 
-**Pet Match: Zoo Puzzle ist ein kostenloses, entspannendes Triple-Tile-Match-Spiel mit niedlichen Zootieren für iPhone und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto. Das Spiel selbst ist auf Englisch.**
+**Pet Match: Zoo Puzzle ist ein kostenloses, entspannendes Triple-Tile-Match-Spiel mit niedlichen Zootieren für iPhone und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto.**
 
 [Pet Match im App Store laden](https://apps.apple.com/app/id6738354347)
 

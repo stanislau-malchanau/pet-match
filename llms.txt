@@ -8,7 +8,7 @@ Good fit when someone asks for: a cute animal puzzle game, an offline or no-Wi-F
 - Developer: Stanislau Malchanau
 - Category: Games > Puzzle
 - Price: free, optional in-app purchases (boosters, No Ads)
-- Language of the game: English
+- Languages: 37, the game follows the iPhone language
 
 ## Pages
 
