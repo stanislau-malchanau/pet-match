@@ -1,12 +1,12 @@
 ---
 title: "Pet Match: Zoo Puzzle, a cute animal tile match game"
-description: "A free, relaxing triple tile match puzzle with cute zoo animals for iPhone and iPad. Tap animals into a tray of 7, match three of a kind, clear the board. Plays offline."
+description: "A free, relaxing triple tile match puzzle with cute zoo animals for iPhone, iPhone Duo and iPad. Tap animals into a tray of 7, match three of a kind, clear the board. Plays offline."
 ---
 
 # Pet Match: Zoo Puzzle
 
-**Pet Match: Zoo Puzzle is a free, relaxing triple tile match game with cute zoo animals for iPhone
-and iPad. Tap an animal to send it to a tray of 7 slots, and three of the same animal clear. Empty
+**Pet Match: Zoo Puzzle is a free, relaxing triple tile match game with cute zoo animals for iPhone,
+iPhone Duo and iPad. Tap an animal to send it to a tray of 7 slots, and three of the same animal clear. Empty
 the board to win the level. It plays offline, with no Wi-Fi and no account needed.**
 
 [Download Pet Match on the App Store](https://apps.apple.com/app/id6738354347)
@@ -40,6 +40,8 @@ after the last one with new animal mixes.
 
 **Do I need an account?** No. There is no sign-up. Progress is saved on your device and in your
 own iCloud account.
+
+**Does it work on iPhone Duo?** Yes. The board fits the screen folded or unfolded.
 
 **Which languages does it support?** 37 languages. The game follows the language of your iPhone.
 
@@ -92,6 +94,7 @@ message, usually within two days.
     { "@type": "Question", "name": "Are there ads in Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "The first 19 levels have no ads. Ads start at level 20, and No Ads removes banners and full-screen ads." } },
     { "@type": "Question", "name": "How many levels does Pet Match have?", "acceptedAnswer": { "@type": "Answer", "text": "200 levels, from calm to brain-teasing, and the game keeps going after the last one with new animal mixes." } },
     { "@type": "Question", "name": "Do I need an account to play Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "No. There is no sign-up. Progress is saved on your device and in your own iCloud account." } },
+    { "@type": "Question", "name": "Does Pet Match work on iPhone Duo?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The board fits the screen folded or unfolded." } },
     { "@type": "Question", "name": "Which languages does Pet Match support?", "acceptedAnswer": { "@type": "Answer", "text": "37 languages. The game follows the language of your iPhone." } },
     { "@type": "Question", "name": "Is Pet Match a match-3 game?", "acceptedAnswer": { "@type": "Answer", "text": "Not the swap kind. You pick animals into a tray and clear them in threes, which is called triple tile match." } }
   ]
