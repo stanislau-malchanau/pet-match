@@ -1,12 +1,12 @@
 ---
 title: "Pet Match: Zoo Puzzle"
-description: "Pet Match: Zoo Puzzle 是一款免費、輕鬆的三消方塊配對遊戲，主角是可愛的動物園動物，適用於 iPhone 和 iPad。點一下動物把牠送進 7 格托盤，三隻相同的動物就會消除。清空棋盤即可過關。可離線遊玩，不需要 Wi-Fi，也不需要註冊帳號。"
+description: "Pet Match: Zoo Puzzle 是一款免費、輕鬆的三消方塊配對遊戲，主角是可愛的動物園動物，適用於 iPhone、iPhone Duo 和 iPad。點一下動物把牠送進 7 格托盤，三隻相同的動物就會消除。清空棋盤即可過關。可離線遊玩，不需要 Wi-Fi，也不需要註冊帳號。"
 lang: zh-hant
 ---
 
 # Pet Match: Zoo Puzzle
 
-**Pet Match: Zoo Puzzle 是一款免費、輕鬆的三消方塊配對遊戲，主角是可愛的動物園動物，適用於 iPhone 和 iPad。點一下動物把牠送進 7 格托盤，三隻相同的動物就會消除。清空棋盤即可過關。可離線遊玩，不需要 Wi-Fi，也不需要註冊帳號。**
+**Pet Match: Zoo Puzzle 是一款免費、輕鬆的三消方塊配對遊戲，主角是可愛的動物園動物，適用於 iPhone、iPhone Duo 和 iPad。點一下動物把牠送進 7 格托盤，三隻相同的動物就會消除。清空棋盤即可過關。可離線遊玩，不需要 Wi-Fi，也不需要註冊帳號。**
 
 [在 App Store 下載 Pet Match](https://apps.apple.com/app/id6738354347)
 
