@@ -1,12 +1,12 @@
 ---
-title: "So wird Pet Match: Zoo Animal Puzzle gespielt: Regeln und Tipps"
+title: "So wird Pet Match gespielt: Regeln und Tipps"
 description: "Die Regeln von Pet Match, einem Triple-Tile-Match-Spiel mit niedlichen Tieren: Tiere in eine Leiste mit 7 Feldern tippen, drei gleiche abräumen, das Feld leeren. Booster, Werbung und Tipps."
 lang: de
 ---
 
 # So wird Pet Match gespielt
 
-**Pet Match: Zoo Animal Puzzle ist ein Triple-Tile-Match-Spiel. Du tippst Tierblasen an, sie fliegen in eine Leiste mit 7 Feldern, drei gleiche Tiere verschwinden, und wenn das Feld leer ist, hast du gewonnen. Es gibt keinen Timer und keine Leben: Ist die Leiste voll, startest du das Level einfach neu.**
+**Pet Match: Zoo Tiere Spiele ist ein Triple-Tile-Match-Spiel. Du tippst Tierblasen an, sie fliegen in eine Leiste mit 7 Feldern, drei gleiche Tiere verschwinden, und wenn das Feld leer ist, hast du gewonnen. Es gibt keinen Timer und keine Leben: Ist die Leiste voll, startest du das Level einfach neu.**
 
 [Pet Match im App Store laden](https://apps.apple.com/app/id6738354347)
 
@@ -47,7 +47,7 @@ Die ersten 19 Level sind werbefrei. Ab Level 20 zeigt das Spiel ein Banner und e
   "@context": "https://schema.org",
   "@type": "HowTo",
   "inLanguage": "de",
-  "name": "So wird Pet Match: Zoo Animal Puzzle gespielt: Regeln und Tipps",
+  "name": "So wird Pet Match gespielt: Regeln und Tipps",
   "description": "Die Regeln von Pet Match, einem Triple-Tile-Match-Spiel mit niedlichen Tieren: Tiere in eine Leiste mit 7 Feldern tippen, drei gleiche abräumen, das Feld leeren. Booster, Werbung und Tipps.",
   "step": [
     {

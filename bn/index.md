@@ -73,7 +73,10 @@ lang: bn
   "@context": "https://schema.org",
   "@type": "MobileApplication",
   "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "iPhone, iPhone Duo ও iPad-এর জন্য ১৩টি মিষ্টি প্রাণী নিয়ে বিনামূল্যের, আরামদায়ক ট্রিপল টাইল ম্যাচ গেম। ছবির আকারের ২০০টি লেভেল, টাইমার নেই, লাইফ নেই, প্রতিটি লেভেল জেতা যায়। অফলাইনে চলে।",
   "inLanguage": "bn",
   "url": "https://stanislau-malchanau.github.io/pet-match/bn/",

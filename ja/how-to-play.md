@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzleの遊び方：ルールとコツ"
+title: "Pet Matchの遊び方：ルールとコツ"
 description: "かわいい動物のトリプルタイルマッチ、Pet Matchのルール：動物を7マスのトレイに入れ、同じ動物を3つそろえて消し、盤面を空にしよう。ブースター、広告、コツも紹介。"
 lang: ja
 ---
 
 # Pet Matchの遊び方
 
-**Pet Match: Zoo Animal Puzzle はトリプルタイルマッチゲームです。動物のバブルをタップして7マスのトレイに入れ、同じ動物が3つそろうと消え、盤面が空になればクリア。時間制限もライフもありません。トレイがいっぱいになったら、そのレベルをもう一度遊ぶだけです。**
+**Pet Match: どうぶつパズル 3マッチ はトリプルタイルマッチゲームです。動物のバブルをタップして7マスのトレイに入れ、同じ動物が3つそろうと消え、盤面が空になればクリア。時間制限もライフもありません。トレイがいっぱいになったら、そのレベルをもう一度遊ぶだけです。**
 
 [App StoreでPet Matchをダウンロード](https://apps.apple.com/app/id6738354347)
 
@@ -47,7 +47,7 @@ lang: ja
   "@context": "https://schema.org",
   "@type": "HowTo",
   "inLanguage": "ja",
-  "name": "Pet Match: Zoo Animal Puzzleの遊び方：ルールとコツ",
+  "name": "Pet Matchの遊び方：ルールとコツ",
   "description": "かわいい動物のトリプルタイルマッチ、Pet Matchのルール：動物を7マスのトレイに入れ、同じ動物を3つそろえて消し、盤面を空にしよう。ブースター、広告、コツも紹介。",
   "step": [
     {

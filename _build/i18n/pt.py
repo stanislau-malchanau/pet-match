@@ -1,5 +1,5 @@
 T = {
-    "name": "Pet Match: Zoo Animal Puzzle",
+    "name": "Pet Match: Jogos de Animais",
     "dl": "Baixar Pet Match na App Store",
     "nav_game": "Página do jogo", "nav_howto": "Como jogar", "nav_levels": "Níveis",
     "nav_privacy": "Política de Privacidade", "nav_terms": "Termos de Uso",
@@ -9,7 +9,7 @@ T = {
     "alt_shuffle": "O reforço Embaralhar do Pet Match mistura raposas, cachorrinhos, pintinhos e unicórnios",
 
     "idx_desc": "Jogo de peças triple match grátis e tranquilo com 13 animais fofos para iPhone, iPhone Duo e iPad. 200 níveis em forma de desenho, sem tempo nem vidas, todos possíveis de vencer. Funciona sem internet.",
-    "idx_lead": "Pet Match: Zoo Animal Puzzle é um jogo de peças triple match grátis e tranquilo, com animais fofos, para iPhone, iPhone Duo e iPad. Toque em um animal para enviá-lo a uma bandeja de 7 espaços; três animais iguais desaparecem. Esvazie o tabuleiro para vencer o nível. Funciona sem internet, sem Wi-Fi e sem conta, e não tem tempo nem vidas.",
+    "idx_lead": "Pet Match: Jogos de Animais é um jogo de peças triple match grátis e tranquilo, com animais fofos, para iPhone, iPhone Duo e iPad. Toque em um animal para enviá-lo a uma bandeja de 7 espaços; três animais iguais desaparecem. Esvazie o tabuleiro para vencer o nível. Funciona sem internet, sem Wi-Fi e sem conta, e não tem tempo nem vidas.",
     "h_play": "Como jogar",
     "play": [
         "Toque em uma bolha de animal que não esteja coberta para enviá-la à bandeja.",
@@ -42,10 +42,10 @@ T = {
         ("É um jogo match-3?", "Não do tipo em que se trocam peças. Você leva animais para uma bandeja e os elimina de três em três: isso é triple tile match."),
     ],
 
-    "ht_title": "Como jogar Pet Match: Zoo Animal Puzzle: regras e dicas",
+    "ht_title": "Como jogar Pet Match: regras e dicas",
     "ht_desc": "Regras do Pet Match, um jogo de peças triple match com animais fofos: leve animais a uma bandeja de 7, elimine três iguais e esvazie o tabuleiro. Reforços, anúncios e dicas.",
     "ht_h1": "Como jogar Pet Match",
-    "ht_lead": "Pet Match: Zoo Animal Puzzle é um jogo de peças triple match. Você toca em bolhas de animais para levá-las a uma bandeja de 7 espaços, três animais iguais desaparecem e você vence quando o tabuleiro fica vazio. Não há tempo nem vidas: se a bandeja encher, é só recomeçar o nível.",
+    "ht_lead": "Pet Match: Jogos de Animais é um jogo de peças triple match. Você toca em bolhas de animais para levá-las a uma bandeja de 7 espaços, três animais iguais desaparecem e você vence quando o tabuleiro fica vazio. Não há tempo nem vidas: se a bandeja encher, é só recomeçar o nível.",
     "h_rules": "As regras",
     "rules": [
         "Cada nível é um desenho feito de bolhas de animais: uma carinha de gato, um peixe, um cupcake, um foguete e mais 138 figuras.",
@@ -81,7 +81,7 @@ T = {
     "lv_title": "Níveis do Pet Match: 200 quebra-cabeças em forma de animais, comidas e brinquedos",
     "lv_desc": "O Pet Match tem 200 níveis em forma de desenho: uma carinha de gato, um peixe, uma coruja, um cupcake, um foguete e mais 137 figuras. Cada nível foi verificado por um programa que o resolve e pode ser vencido sem reforços.",
     "lv_h1": "Os níveis do Pet Match",
-    "lv_lead": "Pet Match: Zoo Animal Puzzle tem 200 níveis, e cada um é um desenho feito de bolhas de animais: uma carinha de gato, um peixe, uma coruja, um cupcake, um foguete, um ursinho de pelúcia e mais 136 figuras. Cada nível foi verificado por um programa que o resolve e pode ser vencido sem reforços. Depois do nível 200, os níveis 101 a 200 voltam com os animais misturados de outro jeito.",
+    "lv_lead": "Pet Match: Jogos de Animais tem 200 níveis, e cada um é um desenho feito de bolhas de animais: uma carinha de gato, um peixe, uma coruja, um cupcake, um foguete, um ursinho de pelúcia e mais 136 figuras. Cada nível foi verificado por um programa que o resolve e pode ser vencido sem reforços. Depois do nível 200, os níveis 101 a 200 voltam com os animais misturados de outro jeito.",
     "h_look": "Como são os níveis",
     "cats": [
         ("Animais:", "gato, carinha de gato, cachorro, pintinho, coelho, urso, raposa, porquinho, panda, pinguim, coruja, girafa, elefante, leão, tigre, coala, guaxinim, macaco, hamster, ratinho, ovelha, vaca, sapo, pato, tartaruga, baleia, peixe, caranguejo, polvo, água-viva, estrela-do-mar, cobra, unicórnio, borboleta, joaninha."),

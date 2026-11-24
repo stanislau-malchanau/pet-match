@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle 플레이 방법: 규칙과 팁"
+title: "Pet Match 플레이 방법: 규칙과 팁"
 description: "귀여운 동물 트리플 타일 매치 게임 Pet Match의 규칙: 동물을 7칸 트레이에 넣고, 같은 동물 3개를 없애고, 판을 비우세요. 부스터, 광고, 팁까지."
 lang: ko
 ---
 
 # Pet Match 플레이 방법
 
-**Pet Match: Zoo Animal Puzzle는 트리플 타일 매치 게임입니다. 동물 버블을 탭해 7칸 트레이로 보내면 같은 동물 3마리가 사라지고, 판이 비면 승리합니다. 시간 제한도 하트도 없어서, 트레이가 꽉 차면 그 레벨을 다시 하면 됩니다.**
+**Pet Match: 동물 퍼즐 게임는 트리플 타일 매치 게임입니다. 동물 버블을 탭해 7칸 트레이로 보내면 같은 동물 3마리가 사라지고, 판이 비면 승리합니다. 시간 제한도 하트도 없어서, 트레이가 꽉 차면 그 레벨을 다시 하면 됩니다.**
 
 [App Store에서 Pet Match 다운로드](https://apps.apple.com/app/id6738354347)
 
@@ -47,7 +47,7 @@ lang: ko
   "@context": "https://schema.org",
   "@type": "HowTo",
   "inLanguage": "ko",
-  "name": "Pet Match: Zoo Animal Puzzle 플레이 방법: 규칙과 팁",
+  "name": "Pet Match 플레이 방법: 규칙과 팁",
   "description": "귀여운 동물 트리플 타일 매치 게임 Pet Match의 규칙: 동물을 7칸 트레이에 넣고, 같은 동물 3개를 없애고, 판을 비우세요. 부스터, 광고, 팁까지.",
   "step": [
     {

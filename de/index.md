@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: Zoo Tiere Spiele"
 description: "Kostenloses, ruhiges Triple-Tile-Match-Spiel mit 13 niedlichen Tieren für iPhone, iPhone Duo und iPad. 200 Level als Bilder, ohne Timer und ohne Leben, jedes Level lösbar. Läuft offline."
 lang: de
 ---
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: Zoo Tiere Spiele
 
-**Pet Match: Zoo Animal Puzzle ist ein kostenloses, ruhiges Triple-Tile-Match-Spiel mit niedlichen Tieren für iPhone, iPhone Duo und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto, und es hat keinen Timer und keine Leben.**
+**Pet Match: Zoo Tiere Spiele ist ein kostenloses, ruhiges Triple-Tile-Match-Spiel mit niedlichen Tieren für iPhone, iPhone Duo und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto, und es hat keinen Timer und keine Leben.**
 
 [Pet Match im App Store laden](https://apps.apple.com/app/id6738354347)
 
@@ -72,8 +72,11 @@ Fragen, ein Problem oder eine Idee? Schreiben Sie an **7tam.official@gmail.com**
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: Zoo Tiere Spiele",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "Kostenloses, ruhiges Triple-Tile-Match-Spiel mit 13 niedlichen Tieren für iPhone, iPhone Duo und iPad. 200 Level als Bilder, ohne Timer und ohne Leben, jedes Level lösbar. Läuft offline.",
   "inLanguage": "de",
   "url": "https://stanislau-malchanau.github.io/pet-match/de/",

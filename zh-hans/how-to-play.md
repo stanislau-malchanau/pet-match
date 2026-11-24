@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle 怎么玩：规则和技巧"
+title: "Pet Match 怎么玩：规则和技巧"
 description: "Pet Match 的规则：这是一款可爱动物三消方块配对游戏，把动物送进 7 格托盘，三个相同就消除，清空棋盘即可过关。道具、广告和技巧。"
 lang: zh-hans
 ---
 
 # Pet Match 怎么玩
 
-**Pet Match: Zoo Animal Puzzle 是一款三消方块配对游戏。点击动物泡泡，把它们送进 7 格托盘，三个相同的动物就会消除，棋盘清空就赢了。不限时，也没有体力：托盘满了，重新开始这一关就行。**
+**Pet Match: 动物消除益智游戏 是一款三消方块配对游戏。点击动物泡泡，把它们送进 7 格托盘，三个相同的动物就会消除，棋盘清空就赢了。不限时，也没有体力：托盘满了，重新开始这一关就行。**
 
 [在 App Store 下载 Pet Match](https://apps.apple.com/app/id6738354347)
 
@@ -47,7 +47,7 @@ lang: zh-hans
   "@context": "https://schema.org",
   "@type": "HowTo",
   "inLanguage": "zh-hans",
-  "name": "Pet Match: Zoo Animal Puzzle 怎么玩：规则和技巧",
+  "name": "Pet Match 怎么玩：规则和技巧",
   "description": "Pet Match 的规则：这是一款可爱动物三消方块配对游戏，把动物送进 7 格托盘，三个相同就消除，清空棋盘即可过关。道具、广告和技巧。",
   "step": [
     {

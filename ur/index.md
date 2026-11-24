@@ -77,7 +77,10 @@ lang: ur
   "@context": "https://schema.org",
   "@type": "MobileApplication",
   "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "آئی فون، iPhone Duo اور آئی پیڈ کے لیے 13 پیارے جانوروں والا مفت اور پُرسکون ٹرپل ٹائل میچ گیم۔ تصویروں کی شکل کے 200 لیولز، نہ ٹائمر نہ لائف، ہر لیول جیتا جا سکتا ہے۔ آف لائن چلتا ہے۔",
   "inLanguage": "ur",
   "url": "https://stanislau-malchanau.github.io/pet-match/ur/",

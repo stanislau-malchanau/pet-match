@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: 動物消除益智遊戲"
 description: "免費、輕鬆的三消方塊配對遊戲，13 種可愛動物，適用於 iPhone、iPhone Duo 和 iPad。200 個圖案關卡，不限時、沒有體力，每關都能通過。可離線遊玩。"
 lang: zh-hant
 ---
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: 動物消除益智遊戲
 
-**Pet Match: Zoo Animal Puzzle 是一款免費、輕鬆的三消方塊配對遊戲，主角是可愛的動物，適用於 iPhone、iPhone Duo 和 iPad。點一下動物把它送進 7 格托盤，三個相同的動物就會消除。清空棋盤即可過關。可離線遊玩，無需 Wi-Fi，也無需註冊賬號；不限時，也沒有體力。**
+**Pet Match: 動物消除益智遊戲 是一款免費、輕鬆的三消方塊配對遊戲，主角是可愛的動物，適用於 iPhone、iPhone Duo 和 iPad。點一下動物把它送進 7 格托盤，三個相同的動物就會消除。清空棋盤即可過關。可離線遊玩，無需 Wi-Fi，也無需註冊賬號；不限時，也沒有體力。**
 
 [在 App Store 下載 Pet Match](https://apps.apple.com/app/id6738354347)
 
@@ -72,8 +72,11 @@ lang: zh-hant
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: 動物消除益智遊戲",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "免費、輕鬆的三消方塊配對遊戲，13 種可愛動物，適用於 iPhone、iPhone Duo 和 iPad。200 個圖案關卡，不限時、沒有體力，每關都能通過。可離線遊玩。",
   "inLanguage": "zh-hant",
   "url": "https://stanislau-malchanau.github.io/pet-match/zh-hant/",

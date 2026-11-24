@@ -6,7 +6,7 @@ lang: es
 
 # Los niveles de Pet Match
 
-**Pet Match: Zoo Animal Puzzle tiene 200 niveles, y cada uno es un dibujo hecho de burbujas de animales: una cara de gato, un pez, un búho, un cupcake, un cohete, un osito de peluche y 136 figuras más. Cada nivel ha sido comprobado por un programa que lo resuelve y se puede ganar sin potenciadores. Después del nivel 200 vuelven los niveles del 101 al 200 con los animales mezclados de otra forma.**
+**Pet Match: Juegos de Animales tiene 200 niveles, y cada uno es un dibujo hecho de burbujas de animales: una cara de gato, un pez, un búho, un cupcake, un cohete, un osito de peluche y 136 figuras más. Cada nivel ha sido comprobado por un programa que lo resuelve y se puede ganar sin potenciadores. Después del nivel 200 vuelven los niveles del 101 al 200 con los animales mezclados de otra forma.**
 
 [Descargar Pet Match en el App Store](https://apps.apple.com/app/id6738354347)
 

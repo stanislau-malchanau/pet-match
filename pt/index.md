@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: Jogos de Animais"
 description: "Jogo de peças triple match grátis e tranquilo com 13 animais fofos para iPhone, iPhone Duo e iPad. 200 níveis em forma de desenho, sem tempo nem vidas, todos possíveis de vencer. Funciona sem internet."
 lang: pt
 ---
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: Jogos de Animais
 
-**Pet Match: Zoo Animal Puzzle é um jogo de peças triple match grátis e tranquilo, com animais fofos, para iPhone, iPhone Duo e iPad. Toque em um animal para enviá-lo a uma bandeja de 7 espaços; três animais iguais desaparecem. Esvazie o tabuleiro para vencer o nível. Funciona sem internet, sem Wi-Fi e sem conta, e não tem tempo nem vidas.**
+**Pet Match: Jogos de Animais é um jogo de peças triple match grátis e tranquilo, com animais fofos, para iPhone, iPhone Duo e iPad. Toque em um animal para enviá-lo a uma bandeja de 7 espaços; três animais iguais desaparecem. Esvazie o tabuleiro para vencer o nível. Funciona sem internet, sem Wi-Fi e sem conta, e não tem tempo nem vidas.**
 
 [Baixar Pet Match na App Store](https://apps.apple.com/app/id6738354347)
 
@@ -72,8 +72,11 @@ Uma pergunta, um problema ou uma ideia? Escreva para **7tam.official@gmail.com**
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: Jogos de Animais",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "Jogo de peças triple match grátis e tranquilo com 13 animais fofos para iPhone, iPhone Duo e iPad. 200 níveis em forma de desenho, sem tempo nem vidas, todos possíveis de vencer. Funciona sem internet.",
   "inLanguage": "pt",
   "url": "https://stanislau-malchanau.github.io/pet-match/pt/",

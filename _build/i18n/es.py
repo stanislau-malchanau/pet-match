@@ -1,5 +1,5 @@
 T = {
-    "name": "Pet Match: Zoo Animal Puzzle",
+    "name": "Pet Match: Juegos de Animales",
     "dl": "Descargar Pet Match en el App Store",
     "nav_game": "Página del juego", "nav_howto": "Cómo jugar", "nav_levels": "Niveles",
     "nav_privacy": "Política de privacidad", "nav_terms": "Condiciones de uso",
@@ -9,7 +9,7 @@ T = {
     "alt_shuffle": "El potenciador Mezclar de Pet Match mezcla zorros, cachorros, pollitos y unicornios",
 
     "idx_desc": "Juego de fichas triple match gratis y tranquilo con 13 animales tiernos para iPhone, iPhone Duo y iPad. 200 niveles con forma de dibujo, sin tiempo ni vidas, todos superables. Funciona sin internet.",
-    "idx_lead": "Pet Match: Zoo Animal Puzzle es un juego de fichas triple match gratis y tranquilo, con animales tiernos, para iPhone, iPhone Duo y iPad. Toca un animal para enviarlo a una bandeja de 7 casillas; tres animales iguales desaparecen. Vacía el tablero para ganar el nivel. Funciona sin internet, sin wifi y sin cuenta, y no tiene tiempo límite ni vidas.",
+    "idx_lead": "Pet Match: Juegos de Animales es un juego de fichas triple match gratis y tranquilo, con animales tiernos, para iPhone, iPhone Duo y iPad. Toca un animal para enviarlo a una bandeja de 7 casillas; tres animales iguales desaparecen. Vacía el tablero para ganar el nivel. Funciona sin internet, sin wifi y sin cuenta, y no tiene tiempo límite ni vidas.",
     "h_play": "Cómo jugar",
     "play": [
         "Toca una burbuja de animal que no esté tapada para enviarla a la bandeja.",
@@ -42,10 +42,10 @@ T = {
         ("¿Es un juego de match-3?", "No del tipo en que se intercambian piezas. Llevas animales a una bandeja y los eliminas de tres en tres: es un triple tile match."),
     ],
 
-    "ht_title": "Cómo jugar a Pet Match: Zoo Animal Puzzle: reglas y consejos",
+    "ht_title": "Cómo jugar a Pet Match: reglas y consejos",
     "ht_desc": "Las reglas de Pet Match, un juego de fichas triple match con animales tiernos: lleva animales a una bandeja de 7, elimina tres iguales y vacía el tablero. Potenciadores, anuncios y consejos.",
     "ht_h1": "Cómo jugar a Pet Match",
-    "ht_lead": "Pet Match: Zoo Animal Puzzle es un juego de fichas triple match. Tocas burbujas de animales para llevarlas a una bandeja de 7 casillas, tres animales iguales desaparecen y ganas cuando el tablero queda vacío. No hay tiempo límite ni vidas: si la bandeja se llena, simplemente repites el nivel.",
+    "ht_lead": "Pet Match: Juegos de Animales es un juego de fichas triple match. Tocas burbujas de animales para llevarlas a una bandeja de 7 casillas, tres animales iguales desaparecen y ganas cuando el tablero queda vacío. No hay tiempo límite ni vidas: si la bandeja se llena, simplemente repites el nivel.",
     "h_rules": "Las reglas",
     "rules": [
         "Cada nivel es un dibujo hecho de burbujas de animales: una cara de gato, un pez, un cupcake, un cohete y 138 figuras más.",
@@ -81,7 +81,7 @@ T = {
     "lv_title": "Niveles de Pet Match: 200 puzles con forma de animales, comida y juguetes",
     "lv_desc": "Pet Match tiene 200 niveles con forma de dibujo: una cara de gato, un pez, un búho, un cupcake, un cohete y 137 figuras más. Cada nivel ha sido comprobado por un programa que lo resuelve y se gana sin potenciadores.",
     "lv_h1": "Los niveles de Pet Match",
-    "lv_lead": "Pet Match: Zoo Animal Puzzle tiene 200 niveles, y cada uno es un dibujo hecho de burbujas de animales: una cara de gato, un pez, un búho, un cupcake, un cohete, un osito de peluche y 136 figuras más. Cada nivel ha sido comprobado por un programa que lo resuelve y se puede ganar sin potenciadores. Después del nivel 200 vuelven los niveles del 101 al 200 con los animales mezclados de otra forma.",
+    "lv_lead": "Pet Match: Juegos de Animales tiene 200 niveles, y cada uno es un dibujo hecho de burbujas de animales: una cara de gato, un pez, un búho, un cupcake, un cohete, un osito de peluche y 136 figuras más. Cada nivel ha sido comprobado por un programa que lo resuelve y se puede ganar sin potenciadores. Después del nivel 200 vuelven los niveles del 101 al 200 con los animales mezclados de otra forma.",
     "h_look": "Cómo son los niveles",
     "cats": [
         ("Animales:", "gato, cara de gato, perro, pollito, conejo, oso, zorro, cerdito, panda, pingüino, búho, jirafa, elefante, león, tigre, koala, mapache, mono, hámster, ratón, oveja, vaca, rana, pato, tortuga, ballena, pez, cangrejo, pulpo, medusa, estrella de mar, serpiente, unicornio, mariposa, mariquita."),

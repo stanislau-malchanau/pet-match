@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: 동물 퍼즐 게임"
 description: "귀여운 동물 13종과 함께하는 무료 힐링 트리플 타일 매치 게임(iPhone, iPhone Duo, iPad). 그림 모양 레벨 200개, 시간 제한도 하트도 없고 모든 레벨 클리어 가능. 오프라인 플레이."
 lang: ko
 ---
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: 동물 퍼즐 게임
 
-**Pet Match: Zoo Animal Puzzle는 귀여운 동물들과 함께하는 무료 힐링 트리플 타일 매치 게임입니다(iPhone, iPhone Duo, iPad). 동물을 탭하면 7칸 트레이로 이동하고, 같은 동물 3마리가 모이면 사라집니다. 판을 모두 비우면 레벨 클리어. 오프라인으로, 와이파이와 계정 없이 즐길 수 있고, 시간 제한도 하트(목숨)도 없습니다.**
+**Pet Match: 동물 퍼즐 게임는 귀여운 동물들과 함께하는 무료 힐링 트리플 타일 매치 게임입니다(iPhone, iPhone Duo, iPad). 동물을 탭하면 7칸 트레이로 이동하고, 같은 동물 3마리가 모이면 사라집니다. 판을 모두 비우면 레벨 클리어. 오프라인으로, 와이파이와 계정 없이 즐길 수 있고, 시간 제한도 하트(목숨)도 없습니다.**
 
 [App Store에서 Pet Match 다운로드](https://apps.apple.com/app/id6738354347)
 
@@ -72,8 +72,11 @@ lang: ko
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: 동물 퍼즐 게임",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "귀여운 동물 13종과 함께하는 무료 힐링 트리플 타일 매치 게임(iPhone, iPhone Duo, iPad). 그림 모양 레벨 200개, 시간 제한도 하트도 없고 모든 레벨 클리어 가능. 오프라인 플레이.",
   "inLanguage": "ko",
   "url": "https://stanislau-malchanau.github.io/pet-match/ko/",

@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: どうぶつパズル 3マッチ"
 description: "13種類のかわいい動物と遊ぶ、無料で癒やされるトリプルタイルマッチゲーム（iPhone・iPhone Duo・iPad）。絵の形をした200レベル、時間制限なし、ライフなし、全レベルクリア可能。オフラインで遊べます。"
 lang: ja
 ---
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: どうぶつパズル 3マッチ
 
-**Pet Match: Zoo Animal Puzzle は、かわいい動物たちと遊ぶ、無料で癒やされるトリプルタイルマッチゲームです（iPhone・iPhone Duo・iPad対応）。動物をタップすると7マスのトレイに入り、同じ動物が3つそろうと消えます。盤面を空にすればレベルクリア。オフラインで遊べて、Wi-Fiもアカウントも不要。時間制限もライフもありません。**
+**Pet Match: どうぶつパズル 3マッチ は、かわいい動物たちと遊ぶ、無料で癒やされるトリプルタイルマッチゲームです（iPhone・iPhone Duo・iPad対応）。動物をタップすると7マスのトレイに入り、同じ動物が3つそろうと消えます。盤面を空にすればレベルクリア。オフラインで遊べて、Wi-Fiもアカウントも不要。時間制限もライフもありません。**
 
 [App StoreでPet Matchをダウンロード](https://apps.apple.com/app/id6738354347)
 
@@ -72,8 +72,11 @@ lang: ja
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: どうぶつパズル 3マッチ",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "13種類のかわいい動物と遊ぶ、無料で癒やされるトリプルタイルマッチゲーム（iPhone・iPhone Duo・iPad）。絵の形をした200レベル、時間制限なし、ライフなし、全レベルクリア可能。オフラインで遊べます。",
   "inLanguage": "ja",
   "url": "https://stanislau-malchanau.github.io/pet-match/ja/",

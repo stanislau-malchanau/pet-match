@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: जानवर पज़ल गेम"
 description: "iPhone, iPhone Duo और iPad के लिए 13 प्यारे जानवरों वाला मुफ़्त, सुकून भरा ट्रिपल टाइल मैच गेम। तस्वीरों के आकार के 200 लेवल, न टाइमर न लाइफ़, हर लेवल जीता जा सकता है। ऑफ़लाइन चलता है।"
 lang: hi
 ---
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: जानवर पज़ल गेम
 
-**Pet Match: Zoo Animal Puzzle iPhone, iPhone Duo और iPad के लिए प्यारे जानवरों वाला एक मुफ़्त, सुकून भरा ट्रिपल टाइल मैच गेम है। किसी जानवर पर टैप करें, वह 7 खानों वाली ट्रे में चला जाता है; एक जैसे तीन जानवर हट जाते हैं। लेवल जीतने के लिए बोर्ड खाली करें। गेम ऑफ़लाइन चलता है, बिना Wi-Fi और बिना अकाउंट के, और इसमें न टाइमर है न लाइफ़।**
+**Pet Match: जानवर पज़ल गेम iPhone, iPhone Duo और iPad के लिए प्यारे जानवरों वाला एक मुफ़्त, सुकून भरा ट्रिपल टाइल मैच गेम है। किसी जानवर पर टैप करें, वह 7 खानों वाली ट्रे में चला जाता है; एक जैसे तीन जानवर हट जाते हैं। लेवल जीतने के लिए बोर्ड खाली करें। गेम ऑफ़लाइन चलता है, बिना Wi-Fi और बिना अकाउंट के, और इसमें न टाइमर है न लाइफ़।**
 
 [App Store से Pet Match डाउनलोड करें](https://apps.apple.com/app/id6738354347)
 
@@ -72,8 +72,11 @@ lang: hi
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: जानवर पज़ल गेम",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "iPhone, iPhone Duo और iPad के लिए 13 प्यारे जानवरों वाला मुफ़्त, सुकून भरा ट्रिपल टाइल मैच गेम। तस्वीरों के आकार के 200 लेवल, न टाइमर न लाइफ़, हर लेवल जीता जा सकता है। ऑफ़लाइन चलता है।",
   "inLanguage": "hi",
   "url": "https://stanislau-malchanau.github.io/pet-match/hi/",

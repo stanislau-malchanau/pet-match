@@ -1,5 +1,5 @@
 T = {
-    "name": "Pet Match: Zoo Animal Puzzle",
+    "name": "Pet Match: Zoo Tiere Spiele",
     "dl": "Pet Match im App Store laden",
     "nav_game": "Spielseite", "nav_howto": "So wird gespielt", "nav_levels": "Level",
     "nav_privacy": "Datenschutzerklärung", "nav_terms": "Nutzungsbedingungen",
@@ -9,7 +9,7 @@ T = {
     "alt_shuffle": "Der Booster Mischen in Pet Match mischt Füchse, Welpen, Küken und Einhörner",
 
     "idx_desc": "Kostenloses, ruhiges Triple-Tile-Match-Spiel mit 13 niedlichen Tieren für iPhone, iPhone Duo und iPad. 200 Level als Bilder, ohne Timer und ohne Leben, jedes Level lösbar. Läuft offline.",
-    "idx_lead": "Pet Match: Zoo Animal Puzzle ist ein kostenloses, ruhiges Triple-Tile-Match-Spiel mit niedlichen Tieren für iPhone, iPhone Duo und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto, und es hat keinen Timer und keine Leben.",
+    "idx_lead": "Pet Match: Zoo Tiere Spiele ist ein kostenloses, ruhiges Triple-Tile-Match-Spiel mit niedlichen Tieren für iPhone, iPhone Duo und iPad. Tippe auf ein Tier, um es in eine Leiste mit 7 Feldern zu schicken; drei gleiche Tiere verschwinden. Räume das Feld leer, um das Level zu gewinnen. Das Spiel läuft offline, ohne WLAN und ohne Konto, und es hat keinen Timer und keine Leben.",
     "h_play": "So wird gespielt",
     "play": [
         "Tippe auf eine Tierblase, die nicht verdeckt ist, um sie in die Leiste zu schicken.",
@@ -42,10 +42,10 @@ T = {
         ("Ist es ein 3-Gewinnt-Spiel?", "Nicht die Art, bei der man Steine tauscht. Du sammelst Tiere in einer Leiste und räumst sie zu dritt ab, das nennt man Triple Tile Match."),
     ],
 
-    "ht_title": "So wird Pet Match: Zoo Animal Puzzle gespielt: Regeln und Tipps",
+    "ht_title": "So wird Pet Match gespielt: Regeln und Tipps",
     "ht_desc": "Die Regeln von Pet Match, einem Triple-Tile-Match-Spiel mit niedlichen Tieren: Tiere in eine Leiste mit 7 Feldern tippen, drei gleiche abräumen, das Feld leeren. Booster, Werbung und Tipps.",
     "ht_h1": "So wird Pet Match gespielt",
-    "ht_lead": "Pet Match: Zoo Animal Puzzle ist ein Triple-Tile-Match-Spiel. Du tippst Tierblasen an, sie fliegen in eine Leiste mit 7 Feldern, drei gleiche Tiere verschwinden, und wenn das Feld leer ist, hast du gewonnen. Es gibt keinen Timer und keine Leben: Ist die Leiste voll, startest du das Level einfach neu.",
+    "ht_lead": "Pet Match: Zoo Tiere Spiele ist ein Triple-Tile-Match-Spiel. Du tippst Tierblasen an, sie fliegen in eine Leiste mit 7 Feldern, drei gleiche Tiere verschwinden, und wenn das Feld leer ist, hast du gewonnen. Es gibt keinen Timer und keine Leben: Ist die Leiste voll, startest du das Level einfach neu.",
     "h_rules": "Die Regeln",
     "rules": [
         "Jedes Level ist ein Bild aus Tierblasen: ein Katzengesicht, ein Fisch, ein Cupcake, eine Rakete und 138 weitere Formen.",
@@ -81,7 +81,7 @@ T = {
     "lv_title": "Pet-Match-Level: 200 Rätsel in Form von Tieren, Essen und Spielzeug",
     "lv_desc": "Pet Match hat 200 Level als Bilder: ein Katzengesicht, ein Fisch, eine Eule, ein Cupcake, eine Rakete und 137 weitere Formen. Jedes Level wurde von einem Löser-Programm geprüft und ist ohne Booster lösbar.",
     "lv_h1": "Die Level von Pet Match",
-    "lv_lead": "Pet Match: Zoo Animal Puzzle hat 200 Level, und jedes Level ist ein Bild aus Tierblasen: ein Katzengesicht, ein Fisch, eine Eule, ein Cupcake, eine Rakete, ein Teddybär und 136 weitere Formen. Jedes Level wurde von einem Löser-Programm geprüft und lässt sich ohne Booster schaffen. Nach Level 200 kommen die Level 101 bis 200 mit neu gemischten Tieren wieder.",
+    "lv_lead": "Pet Match: Zoo Tiere Spiele hat 200 Level, und jedes Level ist ein Bild aus Tierblasen: ein Katzengesicht, ein Fisch, eine Eule, ein Cupcake, eine Rakete, ein Teddybär und 136 weitere Formen. Jedes Level wurde von einem Löser-Programm geprüft und lässt sich ohne Booster schaffen. Nach Level 200 kommen die Level 101 bis 200 mit neu gemischten Tieren wieder.",
     "h_look": "So sehen die Level aus",
     "cats": [
         ("Tiere:", "Katze, Katzengesicht, Hund, Küken, Hase, Bär, Fuchs, Schwein, Panda, Pinguin, Eule, Giraffe, Elefant, Löwe, Tiger, Koala, Waschbär, Affe, Hamster, Maus, Schaf, Kuh, Frosch, Ente, Schildkröte, Wal, Fisch, Krabbe, Krake, Qualle, Seestern, Schlange, Einhorn, Schmetterling, Marienkäfer."),

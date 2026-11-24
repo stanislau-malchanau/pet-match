@@ -1,14 +1,14 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: ألعاب حيوانات"
 description: "لعبة مطابقة بلاطات ثلاثية مجانية وهادئة مع 13 حيوانًا لطيفًا لأجهزة iPhone وiPhone Duo وiPad. 200 مستوى على شكل صور، بلا مؤقت وبلا أرواح، وكل مستوى قابل للفوز. تعمل دون إنترنت."
 lang: ar
 ---
 
 <div dir="rtl" markdown="1">
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: ألعاب حيوانات
 
-**Pet Match: Zoo Animal Puzzle لعبة مطابقة بلاطات ثلاثية مجانية وهادئة مع حيوانات لطيفة، لأجهزة iPhone وiPhone Duo وiPad. اضغط على حيوان لإرساله إلى صينية من 7 خانات، وتختفي ثلاثة حيوانات متشابهة. أفرغ اللوحة لتفوز بالمستوى. تعمل اللعبة دون اتصال، بلا Wi-Fi وبلا حساب، وليس فيها مؤقت ولا أرواح.**
+**Pet Match: ألعاب حيوانات لعبة مطابقة بلاطات ثلاثية مجانية وهادئة مع حيوانات لطيفة، لأجهزة iPhone وiPhone Duo وiPad. اضغط على حيوان لإرساله إلى صينية من 7 خانات، وتختفي ثلاثة حيوانات متشابهة. أفرغ اللوحة لتفوز بالمستوى. تعمل اللعبة دون اتصال، بلا Wi-Fi وبلا حساب، وليس فيها مؤقت ولا أرواح.**
 
 [نزّل Pet Match من App Store](https://apps.apple.com/app/id6738354347)
 
@@ -76,8 +76,11 @@ lang: ar
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: ألعاب حيوانات",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "لعبة مطابقة بلاطات ثلاثية مجانية وهادئة مع 13 حيوانًا لطيفًا لأجهزة iPhone وiPhone Duo وiPad. 200 مستوى على شكل صور، بلا مؤقت وبلا أرواح، وكل مستوى قابل للفوز. تعمل دون إنترنت.",
   "inLanguage": "ar",
   "url": "https://stanislau-malchanau.github.io/pet-match/ar/",

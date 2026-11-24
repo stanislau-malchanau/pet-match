@@ -1,5 +1,5 @@
 T = {
-    "name": "Pet Match: Zoo Animal Puzzle",
+    "name": "Pet Match: Jeux Zoo Animaux",
     "dl": "Télécharger Pet Match sur l’App Store",
     "nav_game": "Page du jeu", "nav_howto": "Comment jouer", "nav_levels": "Niveaux",
     "nav_privacy": "Politique de confidentialité", "nav_terms": "Conditions d'utilisation",
@@ -9,7 +9,7 @@ T = {
     "alt_shuffle": "Le bonus Mélange de Pet Match mélange renards, chiots, poussins et licornes",
 
     "idx_desc": "Jeu de tuiles triple match gratuit et apaisant avec 13 animaux mignons pour iPhone, iPhone Duo et iPad. 200 niveaux en forme d’images, sans chrono ni vies, chaque niveau faisable. Fonctionne hors ligne.",
-    "idx_lead": "Pet Match: Zoo Animal Puzzle est un jeu de tuiles triple match gratuit et apaisant, avec des animaux mignons, pour iPhone, iPhone Duo et iPad. Touchez un animal pour l’envoyer dans une barre de 7 cases ; trois animaux identiques disparaissent. Videz le plateau pour gagner le niveau. Le jeu fonctionne hors ligne, sans Wi-Fi et sans compte, et il n’a ni chrono ni vies.",
+    "idx_lead": "Pet Match: Jeux Zoo Animaux est un jeu de tuiles triple match gratuit et apaisant, avec des animaux mignons, pour iPhone, iPhone Duo et iPad. Touchez un animal pour l’envoyer dans une barre de 7 cases ; trois animaux identiques disparaissent. Videz le plateau pour gagner le niveau. Le jeu fonctionne hors ligne, sans Wi-Fi et sans compte, et il n’a ni chrono ni vies.",
     "h_play": "Comment jouer",
     "play": [
         "Touchez une bulle d’animal que rien ne recouvre pour l’envoyer dans la barre.",
@@ -42,10 +42,10 @@ T = {
         ("Est-ce un jeu de type match-3 ?", "Pas celui où l’on échange des pièces. On place des animaux dans une barre et on les élimine par trois : c’est un triple tile match."),
     ],
 
-    "ht_title": "Comment jouer à Pet Match: Zoo Animal Puzzle : règles et astuces",
+    "ht_title": "Comment jouer à Pet Match: règles et astuces",
     "ht_desc": "Les règles de Pet Match, un jeu de tuiles triple match avec des animaux mignons : envoyez les animaux dans une barre de 7 cases, éliminez-les par trois, videz le plateau. Bonus, publicités et astuces.",
     "ht_h1": "Comment jouer à Pet Match",
-    "ht_lead": "Pet Match: Zoo Animal Puzzle est un jeu de tuiles triple match. Vous touchez des bulles d’animaux pour les envoyer dans une barre de 7 cases, trois animaux identiques disparaissent, et vous gagnez quand le plateau est vide. Il n’y a ni chrono ni vies : si la barre se remplit, recommencez simplement le niveau.",
+    "ht_lead": "Pet Match: Jeux Zoo Animaux est un jeu de tuiles triple match. Vous touchez des bulles d’animaux pour les envoyer dans une barre de 7 cases, trois animaux identiques disparaissent, et vous gagnez quand le plateau est vide. Il n’y a ni chrono ni vies : si la barre se remplit, recommencez simplement le niveau.",
     "h_rules": "Les règles",
     "rules": [
         "Chaque niveau est une image faite de bulles d’animaux : une tête de chat, un poisson, un cupcake, une fusée et 138 autres formes.",
@@ -81,7 +81,7 @@ T = {
     "lv_title": "Niveaux de Pet Match : 200 casse-têtes en forme d’animaux, de friandises et de jouets",
     "lv_desc": "Pet Match compte 200 niveaux en forme d’images : une tête de chat, un poisson, une chouette, un cupcake, une fusée et 137 autres formes. Chaque niveau a été vérifié par un programme de résolution et se termine sans bonus.",
     "lv_h1": "Les niveaux de Pet Match",
-    "lv_lead": "Pet Match: Zoo Animal Puzzle compte 200 niveaux, et chaque niveau est une image faite de bulles d’animaux : une tête de chat, un poisson, une chouette, un cupcake, une fusée, un ours en peluche et 136 autres formes. Chaque niveau a été vérifié par un programme de résolution et se termine sans bonus. Après le niveau 200, les niveaux 101 à 200 reviennent avec les animaux mélangés autrement.",
+    "lv_lead": "Pet Match: Jeux Zoo Animaux compte 200 niveaux, et chaque niveau est une image faite de bulles d’animaux : une tête de chat, un poisson, une chouette, un cupcake, une fusée, un ours en peluche et 136 autres formes. Chaque niveau a été vérifié par un programme de résolution et se termine sans bonus. Après le niveau 200, les niveaux 101 à 200 reviennent avec les animaux mélangés autrement.",
     "h_look": "À quoi ressemblent les niveaux",
     "cats": [
         ("Animaux :", "chat, tête de chat, chien, poussin, lapin, ours, renard, cochon, panda, pingouin, chouette, girafe, éléphant, lion, tigre, koala, raton laveur, singe, hamster, souris, mouton, vache, grenouille, canard, tortue, baleine, poisson, crabe, pieuvre, méduse, étoile de mer, serpent, licorne, papillon, coccinelle."),

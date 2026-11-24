@@ -1,12 +1,12 @@
 ---
-title: "Comment jouer à Pet Match: Zoo Animal Puzzle : règles et astuces"
+title: "Comment jouer à Pet Match: règles et astuces"
 description: "Les règles de Pet Match, un jeu de tuiles triple match avec des animaux mignons : envoyez les animaux dans une barre de 7 cases, éliminez-les par trois, videz le plateau. Bonus, publicités et astuces."
 lang: fr
 ---
 
 # Comment jouer à Pet Match
 
-**Pet Match: Zoo Animal Puzzle est un jeu de tuiles triple match. Vous touchez des bulles d’animaux pour les envoyer dans une barre de 7 cases, trois animaux identiques disparaissent, et vous gagnez quand le plateau est vide. Il n’y a ni chrono ni vies : si la barre se remplit, recommencez simplement le niveau.**
+**Pet Match: Jeux Zoo Animaux est un jeu de tuiles triple match. Vous touchez des bulles d’animaux pour les envoyer dans une barre de 7 cases, trois animaux identiques disparaissent, et vous gagnez quand le plateau est vide. Il n’y a ni chrono ni vies : si la barre se remplit, recommencez simplement le niveau.**
 
 [Télécharger Pet Match sur l’App Store](https://apps.apple.com/app/id6738354347)
 
@@ -47,7 +47,7 @@ Les 19 premiers niveaux sont sans publicité. À partir du niveau 20, le jeu aff
   "@context": "https://schema.org",
   "@type": "HowTo",
   "inLanguage": "fr",
-  "name": "Comment jouer à Pet Match: Zoo Animal Puzzle : règles et astuces",
+  "name": "Comment jouer à Pet Match: règles et astuces",
   "description": "Les règles de Pet Match, un jeu de tuiles triple match avec des animaux mignons : envoyez les animaux dans une barre de 7 cases, éliminez-les par trois, videz le plateau. Bonus, publicités et astuces.",
   "step": [
     {

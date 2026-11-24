@@ -6,7 +6,7 @@ lang: de
 
 # Die Level von Pet Match
 
-**Pet Match: Zoo Animal Puzzle hat 200 Level, und jedes Level ist ein Bild aus Tierblasen: ein Katzengesicht, ein Fisch, eine Eule, ein Cupcake, eine Rakete, ein Teddybär und 136 weitere Formen. Jedes Level wurde von einem Löser-Programm geprüft und lässt sich ohne Booster schaffen. Nach Level 200 kommen die Level 101 bis 200 mit neu gemischten Tieren wieder.**
+**Pet Match: Zoo Tiere Spiele hat 200 Level, und jedes Level ist ein Bild aus Tierblasen: ein Katzengesicht, ein Fisch, eine Eule, ein Cupcake, eine Rakete, ein Teddybär und 136 weitere Formen. Jedes Level wurde von einem Löser-Programm geprüft und lässt sich ohne Booster schaffen. Nach Level 200 kommen die Level 101 bis 200 mit neu gemischten Tieren wieder.**
 
 [Pet Match im App Store laden](https://apps.apple.com/app/id6738354347)
 

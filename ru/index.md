@@ -1,12 +1,12 @@
 ---
-title: "Pet Match: Zoo Animal Puzzle"
+title: "Pet Match: Игры с Животными"
 description: "Бесплатная спокойная головоломка «три в ряд» с плитками и 13 милыми животными для iPhone, iPhone Duo и iPad. 200 уровней-картинок, без таймера и без жизней, каждый уровень проходим. Работает без интернета."
 lang: ru
 ---
 
-# Pet Match: Zoo Animal Puzzle
+# Pet Match: Игры с Животными
 
-**Pet Match: Zoo Animal Puzzle — бесплатная спокойная головоломка «три в ряд» с плитками и милыми животными для iPhone, iPhone Duo и iPad. Нажми на животное, и оно отправится в лоток на 7 ячеек; три одинаковых исчезают. Очисти поле, чтобы пройти уровень. Игра работает без интернета, без Wi-Fi и без регистрации, в ней нет таймера и нет жизней.**
+**Pet Match: Игры с Животными — бесплатная спокойная головоломка «три в ряд» с плитками и милыми животными для iPhone, iPhone Duo и iPad. Нажми на животное, и оно отправится в лоток на 7 ячеек; три одинаковых исчезают. Очисти поле, чтобы пройти уровень. Игра работает без интернета, без Wi-Fi и без регистрации, в ней нет таймера и нет жизней.**
 
 [Скачать Pet Match в App Store](https://apps.apple.com/app/id6738354347)
 
@@ -72,8 +72,11 @@ lang: ru
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Animal Puzzle",
-  "alternateName": "Pet Match",
+  "name": "Pet Match: Игры с Животными",
+  "alternateName": [
+    "Pet Match",
+    "Pet Match: Zoo Animal Puzzle"
+  ],
   "description": "Бесплатная спокойная головоломка «три в ряд» с плитками и 13 милыми животными для iPhone, iPhone Duo и iPad. 200 уровней-картинок, без таймера и без жизней, каждый уровень проходим. Работает без интернета.",
   "inLanguage": "ru",
   "url": "https://stanislau-malchanau.github.io/pet-match/ru/",

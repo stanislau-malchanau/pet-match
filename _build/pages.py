@@ -81,7 +81,7 @@ def index_page(lang, t, support):
     body = "\n".join(b)
     app = {
         "@context": "https://schema.org", "@type": "MobileApplication", "name": t["name"],
-        "alternateName": "Pet Match", "description": t["idx_desc"], "inLanguage": lang,
+        "alternateName": ["Pet Match", "Pet Match: Zoo Animal Puzzle"], "description": t["idx_desc"], "inLanguage": lang,
         "url": BASE + lang + "/", "downloadUrl": STORE, "sameAs": [STORE],
         "image": BASE + "img/icon.png",
         "screenshot": [BASE + "img/level-heart.jpg", BASE + "img/match-three.jpg", BASE + "img/level-wave.jpg"],

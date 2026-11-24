@@ -1,12 +1,12 @@
 ---
-title: "Cómo jugar a Pet Match: Zoo Animal Puzzle: reglas y consejos"
+title: "Cómo jugar a Pet Match: reglas y consejos"
 description: "Las reglas de Pet Match, un juego de fichas triple match con animales tiernos: lleva animales a una bandeja de 7, elimina tres iguales y vacía el tablero. Potenciadores, anuncios y consejos."
 lang: es
 ---
 
 # Cómo jugar a Pet Match
 
-**Pet Match: Zoo Animal Puzzle es un juego de fichas triple match. Tocas burbujas de animales para llevarlas a una bandeja de 7 casillas, tres animales iguales desaparecen y ganas cuando el tablero queda vacío. No hay tiempo límite ni vidas: si la bandeja se llena, simplemente repites el nivel.**
+**Pet Match: Juegos de Animales es un juego de fichas triple match. Tocas burbujas de animales para llevarlas a una bandeja de 7 casillas, tres animales iguales desaparecen y ganas cuando el tablero queda vacío. No hay tiempo límite ni vidas: si la bandeja se llena, simplemente repites el nivel.**
 
 [Descargar Pet Match en el App Store](https://apps.apple.com/app/id6738354347)
 
@@ -47,7 +47,7 @@ Los primeros 19 niveles no tienen anuncios. Desde el nivel 20 el juego muestra u
   "@context": "https://schema.org",
   "@type": "HowTo",
   "inLanguage": "es",
-  "name": "Cómo jugar a Pet Match: Zoo Animal Puzzle: reglas y consejos",
+  "name": "Cómo jugar a Pet Match: reglas y consejos",
   "description": "Las reglas de Pet Match, un juego de fichas triple match con animales tiernos: lleva animales a una bandeja de 7, elimina tres iguales y vacía el tablero. Potenciadores, anuncios y consejos.",
   "step": [
     {
