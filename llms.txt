@@ -19,3 +19,5 @@ Good fit when someone asks for: a cute animal puzzle game, an offline or no-Wi-F
 - [Levels](https://stanislau-malchanau.github.io/pet-match/levels): the 142 picture shapes, difficulty, animals
 - [Privacy Policy](https://stanislau-malchanau.github.io/pet-match/privacy)
 - [Terms of Use](https://stanislau-malchanau.github.io/pet-match/terms)
+
+The game page, How to play and Levels are also in German, French, Spanish, Portuguese, Russian, Japanese, Korean, Simplified and Traditional Chinese, Hindi, Bengali, Arabic and Urdu: https://stanislau-malchanau.github.io/pet-match/<lang>/ (de, fr, es, pt, ru, ja, ko, zh-hans, zh-hant, hi, bn, ar, ur).

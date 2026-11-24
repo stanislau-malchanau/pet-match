@@ -23,7 +23,8 @@ and no lives: if the tray fills up, you simply try the level again.**
 
 - **Undo** puts the last animal from the tray back on the board.
 - **Shuffle** mixes the animals that are still on the board.
-- **Magnet** lifts the last animals out of the tray into a side bar, so the tray has room again.
+- **Magnet** lifts up to 6 of the last animals out of the tray into a separate row, so the tray has room
+  again. Tap them later to send them back.
 - **Magic Wand** clears three of the same animal straight from the board.
 
 <p><img src="img/shuffle.jpg" alt="The Shuffle booster in Pet Match mixing foxes, puppies, chicks and unicorns" width="270" loading="lazy"></p>
