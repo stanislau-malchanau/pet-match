@@ -1,29 +1,42 @@
 ---
-title: "Pet Match: Zoo Puzzle, a cute animal tile match game"
-description: "A free, relaxing triple tile match puzzle with cute zoo animals for iPhone, iPhone Duo and iPad. Tap animals into a tray of 7, match three of a kind, clear the board. Plays offline."
+title: "Pet Match: Zoo Animal Puzzle, a cute animal tile match game"
+description: "A free, calm triple tile match puzzle with 13 cute animals for iPhone, iPhone Duo and iPad. 200 picture-shaped levels, no timer, no lives, every level winnable. Plays offline."
 ---
 
-# Pet Match: Zoo Puzzle
+# Pet Match: Zoo Animal Puzzle
 
-**Pet Match: Zoo Puzzle is a free, relaxing triple tile match game with cute zoo animals for iPhone,
+**Pet Match: Zoo Animal Puzzle is a free, calm triple tile match game with cute animals for iPhone,
 iPhone Duo and iPad. Tap an animal to send it to a tray of 7 slots, and three of the same animal clear. Empty
-the board to win the level. It plays offline, with no Wi-Fi and no account needed.**
+the board to win the level. It plays offline, with no Wi-Fi and no account needed, and it has no timer and no lives.**
 
 [Download Pet Match on the App Store](https://apps.apple.com/app/id6738354347)
 
+<p><img src="img/level-heart.jpg" alt="Pet Match level shaped like a heart, made of animal bubbles, with the tray of 7 at the top" width="270" loading="lazy">
+<img src="img/match-three.jpg" alt="A Pet Match level of chicks in a curved line, with a sheep in the tray" width="270" loading="lazy"></p>
+
 ## How to play
 
-1. Tap an animal bubble to send it to the tray.
+1. Tap an animal bubble that nothing covers to send it to the tray.
 2. Three of the same animal in the tray clear.
 3. Empty the board to win. The tray holds only 7, so plan ahead.
 
-Stuck? Four boosters help: Undo, Shuffle, Magnet and Magic Wand.
+Stuck? Four boosters help: Undo, Shuffle, Magnet and Magic Wand. Full rules and tips: [How to play](how-to-play).
+
+## What makes it different
+
+- **Every level is a picture.** The bubbles form 142 shapes: a cat face, a fish, an owl, a cupcake, a rocket,
+  a teddy bear and many more. See [all levels](levels).
+- **Every level can be won.** Each of the 200 levels has been checked by a solver and can be finished without boosters.
+- **No timer, no lives, no waiting.** Lose a level and you can try again right away, as often as you like.
+- **13 animals:** chicks, bunnies, bears, foxes, penguins, pandas, owls, elephants, giraffes, puppies, piglets,
+  unicorns and sheep.
+- **Calm start.** The first 19 levels have no ads, and animals of similar colour never share a level there.
 
 ## Who it is for
 
 Anyone who wants a calm puzzle for a short break, a commute or a flight, and players who like tile
-match, triple match and mahjong-style games with cute pets: pandas, puppies, kittens, bunnies,
-penguins and more.
+match, triple match and mahjong-style games with cute animals. Adults use it to unwind; it is simple
+enough for kids and grandparents too.
 
 ## Questions and answers
 
@@ -35,8 +48,15 @@ boosters and remove ads.
 **Are there ads?** The first 19 levels have no ads. Ads start at level 20, and No Ads removes
 banners and full-screen ads.
 
-**How many levels are there?** 200 levels, from calm to brain-teasing, and the game keeps going
-after the last one with new animal mixes.
+**Is there a timer or lives?** No. There is no timer and there are no lives, so you never wait to play again.
+
+**Can every level be won?** Yes. Every level has been checked by a solver and can be won without boosters.
+
+**How many levels are there?** 200 levels, from calm to brain-teasing. After level 200, levels 101 to 200
+come back with the animals mixed in a new way.
+
+**Which animals are in the game?** Chicks, bunnies, bears, foxes, penguins, pandas, owls, elephants, giraffes,
+puppies, piglets, unicorns and sheep.
 
 **Do I need an account?** No. There is no sign-up. Progress is saved on your device and in your
 own iCloud account.
@@ -60,7 +80,7 @@ message, usually within two days.
   iCloud account, so it comes back on a new iPhone or iPad.
 - **Ads** start at level 20. No Ads removes banners and full-screen ads.
 
-[Privacy Policy](privacy) · [Terms of Use](terms)
+[How to play](how-to-play) · [Levels](levels) · [Privacy Policy](privacy) · [Terms of Use](terms)
 
 [Deutsch](de/) · [Français](fr/) · [Español](es/) · [Português](pt/) · [Русский](ru/) · [日本語](ja/) · [한국어](ko/) · [简体中文](zh-hans/) · [繁體中文](zh-hant/) · [हिन्दी](hi/) · [বাংলা](bn/) · [العربية](ar/) · [اردو](ur/)
 
@@ -68,9 +88,11 @@ message, usually within two days.
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "name": "Pet Match: Zoo Puzzle",
+  "name": "Pet Match: Zoo Animal Puzzle",
   "alternateName": "Pet Match",
-  "description": "A free, relaxing triple tile match puzzle with cute zoo animals. Tap animals into a tray of 7, match three of a kind and clear the board. Plays offline, no account needed.",
+  "description": "A free, calm triple tile match puzzle with 13 cute animals. Tap animals into a tray of 7, match three of a kind and clear the board. 200 picture-shaped levels, every level winnable, no timer, no lives. Plays offline, no account needed.",
+  "image": "https://stanislau-malchanau.github.io/pet-match/img/icon.png",
+  "screenshot": ["https://stanislau-malchanau.github.io/pet-match/img/level-heart.jpg", "https://stanislau-malchanau.github.io/pet-match/img/match-three.jpg", "https://stanislau-malchanau.github.io/pet-match/img/level-wave.jpg", "https://stanislau-malchanau.github.io/pet-match/img/shuffle.jpg"],
   "url": "https://stanislau-malchanau.github.io/pet-match/",
   "downloadUrl": "https://apps.apple.com/app/id6738354347",
   "sameAs": ["https://apps.apple.com/app/id6738354347"],
@@ -92,7 +114,10 @@ message, usually within two days.
     { "@type": "Question", "name": "Does Pet Match work offline?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Every level plays without an internet connection." } },
     { "@type": "Question", "name": "Is Pet Match free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The game is free to download and play. Optional in-app purchases add boosters and remove ads." } },
     { "@type": "Question", "name": "Are there ads in Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "The first 19 levels have no ads. Ads start at level 20, and No Ads removes banners and full-screen ads." } },
-    { "@type": "Question", "name": "How many levels does Pet Match have?", "acceptedAnswer": { "@type": "Answer", "text": "200 levels, from calm to brain-teasing, and the game keeps going after the last one with new animal mixes." } },
+    { "@type": "Question", "name": "Is there a timer or lives in Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "No. There is no timer and there are no lives, so you never wait to play again." } },
+    { "@type": "Question", "name": "Can every Pet Match level be won?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Every level has been checked by a solver and can be won without boosters." } },
+    { "@type": "Question", "name": "How many levels does Pet Match have?", "acceptedAnswer": { "@type": "Answer", "text": "200 levels, from calm to brain-teasing. After level 200, levels 101 to 200 come back with the animals mixed in a new way." } },
+    { "@type": "Question", "name": "Which animals are in Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "Chicks, bunnies, bears, foxes, penguins, pandas, owls, elephants, giraffes, puppies, piglets, unicorns and sheep." } },
     { "@type": "Question", "name": "Do I need an account to play Pet Match?", "acceptedAnswer": { "@type": "Answer", "text": "No. There is no sign-up. Progress is saved on your device and in your own iCloud account." } },
     { "@type": "Question", "name": "Does Pet Match work on iPhone Duo?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The board fits the screen folded or unfolded." } },
     { "@type": "Question", "name": "Which languages does Pet Match support?", "acceptedAnswer": { "@type": "Answer", "text": "37 languages. The game follows the language of your iPhone." } },
